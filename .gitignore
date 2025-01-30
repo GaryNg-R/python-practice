@@ -51,8 +51,8 @@ build/
 logs/
 
 # OS-specific files
-.DS_Store  # <-- macOS system file
-Thumbs.db  # <-- Windows system file
+.DS_Store  
+Thumbs.db 
 
 # Git Ignore for Secrets
 .env
