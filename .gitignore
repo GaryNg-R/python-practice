@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+.conda/
+conda-env/
+
+# pipenv
+Pipfile
+Pipfile.lock
+
+# Poetry
+poetry.lock
+.pdm.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Testing & Coverage
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.pytype/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store  # <-- macOS system file
+Thumbs.db  # <-- Windows system file
+
+# Git Ignore for Secrets
+.env
+*.env
+config.yaml
+secrets.json
+
+# Database files
+*.sqlite3
+*.db
+
+# Docker
+*.dockerignore
+
+# Debugging / profiling files
+*.prof
+*.log
+*.trace
