@@ -71,3 +71,5 @@ secrets.json
 *.prof
 *.log
 *.trace
+
+**/TV_TOKEN
